@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/card-lister-monster/static/css/main.cbde4794.chunk.css",
+    "main.js": "/card-lister-monster/static/js/main.a00531d9.chunk.js",
+    "main.js.map": "/card-lister-monster/static/js/main.a00531d9.chunk.js.map",
+    "runtime-main.js": "/card-lister-monster/static/js/runtime-main.7a34c2d3.js",
+    "runtime-main.js.map": "/card-lister-monster/static/js/runtime-main.7a34c2d3.js.map",
+    "static/js/2.16eb62f4.chunk.js": "/card-lister-monster/static/js/2.16eb62f4.chunk.js",
+    "static/js/2.16eb62f4.chunk.js.map": "/card-lister-monster/static/js/2.16eb62f4.chunk.js.map",
+    "index.html": "/card-lister-monster/index.html",
+    "precache-manifest.600964d9b5e664bc714e5a51851a0f33.js": "/card-lister-monster/precache-manifest.600964d9b5e664bc714e5a51851a0f33.js",
+    "service-worker.js": "/card-lister-monster/service-worker.js",
+    "static/css/main.cbde4794.chunk.css.map": "/card-lister-monster/static/css/main.cbde4794.chunk.css.map",
+    "static/js/2.16eb62f4.chunk.js.LICENSE.txt": "/card-lister-monster/static/js/2.16eb62f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a34c2d3.js",
+    "static/js/2.16eb62f4.chunk.js",
+    "static/css/main.cbde4794.chunk.css",
+    "static/js/main.a00531d9.chunk.js"
+  ]
+}
