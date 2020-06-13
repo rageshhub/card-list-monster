@@ -2,7 +2,7 @@
   "name": "monstercards",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rageshhub.github.io/card-lister-monster",
+  "homepage": "https://rageshhub.github.io/card-list-monster",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
